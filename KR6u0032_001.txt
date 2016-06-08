@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:40.715605
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 示所犯者瑜伽法鏡經
 #+PROPERTY: CBETA_ID T85n2896
 #+PROPERTY: ID KR6u0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2896
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0032_T_001-1416a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2896¶
-
- 示所犯者瑜伽法鏡經¶
+No. 2896¶
+示所犯者瑜伽法鏡經¶
 ¶
 
 #+BEGIN_VERSE
@@ -92,11 +91,11 @@ No.2896¶
 　佛能執彼法鈴鐸
 　遍令一切普知聞¶
 　以彼振鈴傳法力
-　煩惱如海咸銷盡¶
+　煩惱如海咸鎖盡¶
 　譬如日光明相現
 　黑暗障目並蠲除¶
 　令彼愚癡無智人
-　煩惱銷滅慧光淨¶
+　煩惱鎖滅慧光淨¶
 　無明煩惱弊其目
 　一切雜染並隨行¶
 　為欲利益眾生故
@@ -141,9 +140,9 @@ No.2896¶
 　若能聽此妙伽他
 　自身修行及得見¶
 　捨命生大蓮華中
-　諸佛說法而能聽
+　諸佛說法而能聽」
 #+END_VERSE
-」¶
+¶
 
 爾時地藏菩薩摩訶薩。說此頌已。頂禮佛¶
 足。還復本坐。爾時世尊。告地藏菩薩摩訶¶
@@ -156,11 +155,7 @@ No.2896¶
 道。復有無量他方菩薩。證得究竟不退轉¶
 位。¶
 
-3常施菩薩所問品
-:PROPERTIES:
-:head: 瑜伽法鏡經常施菩薩所問品第三
-:END:
-¶
+* 瑜伽法鏡經常施菩薩所問品第三¶
 
 爾時眾中有一菩薩。名曰常施。承佛神力¶
 從座而起。偏袒一肩。右膝著地。合掌向佛。¶
